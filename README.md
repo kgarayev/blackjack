@@ -1,5 +1,11 @@
 # :spades: Simple Blackjack Command Line Game
 
+## :computer: Tech Used
+
+- Programming Languages: Python
+- Version Control: Git
+- Paradigm: OOP
+
 ## :page_facing_up: Overview
 
 The Simple Blackjack Command Line Game is a Python-based command line interface code that simulates a game of blackjack. It follows the principles of object-oriented programming, providing an interactive and engaging gaming experience.
